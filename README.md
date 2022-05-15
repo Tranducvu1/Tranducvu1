@@ -67,11 +67,8 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
-  </a>
   <a href="https://www.facebook.com/profile.php?id=100074123517393" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Tranducvu-facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCLN9XtVqNxc9opciOlltCXA" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
