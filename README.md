@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="https://www.facebook.com/photo/?fbid=158460603301389&set=pob.100074123517393" width="1200" alt="trungquandev-official" />
+<a href="https://www.facebook.com/photo/?fbid=158460603301389&set=pob.100074123517393" target="_blank">
+  <img src="https://www.facebook.com/photo/?fbid=158460603301389&set=pob.100074123517393" width="1200" alt="Trần Đức Vũ" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
