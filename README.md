@@ -53,10 +53,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="Đức vũ">
     <img width="315" align="center" src="https://www.facebook.com/photo/?fbid=158460603301389&set=pob.100074123517393" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="Đức VũVũ">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -92,6 +92,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/278247736_158460599968056_6452118301766996496_n.jpg?_nc_cat=102&ccb=1-6&_nc_sid=174925&_nc_ohc=ujv5egy6O54AX8hf13X&_nc_ht=scontent.fdad1-2.fna&oh=00_AT-zxVqx83pFNZE7IJJsB-b02yVHPeLrnWEsOV95PPg73w&oe=6286960D" width="846" height="150" alt="trungquandev-official" />
 </a>
 
