@@ -56,9 +56,6 @@
   <a href="#" title="Đức vũ">
     <img width="315" align="center" src="https://www.facebook.com/photo/?fbid=158460603301389&set=pob.100074123517393" />
   </a>
-  <a href="#" title="Đức Vũ">
-    <img align="right" width="434" src="https://github.com/Tranducvu1" />
-  </a>
 </div>
 
 <br>
