@@ -57,7 +57,7 @@
     <img width="315" align="center" src="https://www.facebook.com/photo/?fbid=158460603301389&set=pob.100074123517393" />
   </a>
   <a href="#" title="Đức Vũ">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github.com/Tranducvu1" />
   </a>
 </div>
 
@@ -68,19 +68,19 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100074123517393" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Tranducvu-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ducvu-facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCLN9XtVqNxc9opciOlltCXA" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="ducvu-youtube" />
   </a>
   <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftr%25E1%25BA%25A7n-%25C4%2591%25E1%25BB%25A9c-v%25C5%25A9-326ab8228%3Ffbclid%3DIwAR1Jzi4qZ1ADFmGUTOC-5deYT2Lxz0Orl9dQhkujpw3adkBljUyBGhSEPVs&h=AT04DGIM49nBrNF5hTSI3sJEapYryfCkee0o8WapVOBPB8RADn11HTnn-WQH5gvHB6EJ74a5YPxYB3cjcMPRo52XoSXM64m8_kXruAtgUz8hvxo6PQiqLsJa0OtzjD0hOiS_eQ" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="ducvu-linkedin" />
   </a>
   <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Ftranduc1244%3Ffbclid%3DIwAR3WudQKbPEZimoHgJecQ5dqdNNSgAqv7XrzZ5NuiplBSoMUDryWevY9lOM&h=AT2c9SNtsOUlu7v00G7VgZesS1VQeVTSkQPZVhPpkXLk6MUEt3kN6iCNAoT-mw8W5Sb6rjTFMc21TdXBpBeS25ukfnYcTd8sKXpxWnFHV6E2sdFBq6yCe2g_9zER1H8JQVjy" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="ducvu-instagram" />
   </a>
   <a href="mailto:Tranducvuht@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="ducvu-email" />
   </a>
 </div>
 
