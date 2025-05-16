@@ -39,8 +39,19 @@
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <p align="center">
-  <img src="https://d12dv608mewb84.cloudfront.net" width="450" />
-  <img src="https://tranducvu1.github.io/Fruit-game/" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tranducvu1&show_icons=true&theme=radical" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranducvu1&layout=compact&theme=radical" width="320" />
+</p>
+
+---
+
+<h2 align="center">🎮 Featured Projects 🎮</h2>
+<p align="center">
+  <a href="https://tranducvu1.github.io/Fruit-game/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tranducvu1/Fruit-game/main/preview.png" alt="Fruit Game Preview" width="500"/>
+    <br />
+    <strong>Fruit Game 🍉 (Play Now)</strong>
+  </a>
 </p>
 
 ---
