@@ -61,7 +61,7 @@
   <a href="https://www.facebook.com/profile.php?id=100074123517393" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" width="40"/></a>
   <a href="https://www.youtube.com/channel/UCLN9XtVqNxc9opciOlltCXA" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" width="40"/></a>
   <a href="https://www.linkedin.com/in/trần-đức-vũ-326ab8228/" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="40"/></a>
-  <a href="https://www.instagram.com/tranduc1244" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/instagram.png" width="40"/></a>
+  <a href="https://www.instagram.com/_trvu_/" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/instagram.png" width="40"/></a>
   <a href="mailto:Tranducvuht@gmail.com"><img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" width="40"/></a>
 </p>
 
