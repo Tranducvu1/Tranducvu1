@@ -43,8 +43,8 @@
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" width="320" />
+  <img src="https://d12dv608mewb84.cloudfront.net" width="450" />
+  <img src="https://tranducvu1.github.io/Fruit-game/" width="320" />
 </p>
 
 ---
