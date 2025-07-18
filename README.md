@@ -3,8 +3,6 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/ReactJS-20232A?logo=react&logoColor=61DAFB" height="25" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25" />
   <img src="https://img.shields.io/badge/PlayCanvas-FF4A00?logo=playcanvas&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/PixiJS-8E44AD?logo=pixijs&logoColor=white" height="25" />
