@@ -13,16 +13,18 @@
 
 <p align="center">
   <!-- Backend -->
-    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="25" />
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" height="25" />
 </p>
 
 <p align="center">
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="25" />
 </p>
 
 <p align="center">
@@ -32,38 +34,3 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Blockchain%20Game-121212?logo=ethereum&logoColor=white" height="25" />
 </p>
-
----
-
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranducvu1&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranducvu1&layout=compact&theme=radical" width="320" />
-</p>
-
----
-
-<h2 align="center">🎮 Featured Projects 🎮</h2>
-<p align="center">
-  <a href="https://tranducvu1.github.io/Fruit-game/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tranducvu1/Fruit-game/main/preview.png" alt="Fruit Game Preview" width="500"/>
-    <br />
-    <strong>Fruit Game 🍉 (Play Now)</strong>
-  </a>
-</p>
-
----
-
-<h2 align="center">👽 Where to find me 👽</h2>
-<p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100074123517393" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" width="40"/></a>
-  <a href="https://www.youtube.com/channel/UCLN9XtVqNxc9opciOlltCXA" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" width="40"/></a>
-  <a href="https://www.linkedin.com/in/trần-đức-vũ-326ab8228/" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="40"/></a>
-  <a href="https://www.instagram.com/_trvu_/" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/instagram.png" width="40"/></a>
-  <a href="mailto:Tranducvuht@gmail.com"><img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" width="40"/></a>
-</p>
-
----
-
-<h2 align="center">📑 My Favorite Quote 📑</h2>
-<p align="center"><i>"Hãy sống như thể bạn sẽ chết vào ngày mai. Học như thể bạn sẽ sống mãi mãi." – Mahatma Gandhi</i></p>
